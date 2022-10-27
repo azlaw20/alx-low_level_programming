@@ -13,3 +13,5 @@ This project is about how to use More pointers, arrays and strings in c-programm
 10. the program prints a[2] = 98, followed by a new line.
 11.a function that adds two numbers.
 12.a function that prints a buffer.
+
+Azeez Lawal.
