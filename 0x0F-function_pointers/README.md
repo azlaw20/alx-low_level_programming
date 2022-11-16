@@ -5,3 +5,5 @@ This project is about function pointers, when, why and how to use them in C-prog
 2.  a function that searches for an integer.
 3. a program that performs simple operations.
 4. a program that prints the opcodes of its own main function.
+
+Azeez Lawal.
